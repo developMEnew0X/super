@@ -1,7 +1,7 @@
 
 import React from 'react'
 import Navbar from '@/components/Navbar';
-import GoogleIcon from '@/components/googleIcon';
+import GoogleIcon from '@/components/GoogleIcon';
 import GoogleLogin from '@/components/GoogleLogin';
 
 
